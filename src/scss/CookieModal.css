@@ -1,0 +1,29 @@
+.cookie-modal {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #006281;
+  padding: 20px;
+  box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 1000;
+}
+
+.cookie-modal h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.cookie-modal p {
+  margin-bottom: 20px;
+}
+
+.cookie-modal button {
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}

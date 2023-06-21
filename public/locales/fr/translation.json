@@ -1,0 +1,187 @@
+{
+  "HomePage": {
+    "navigation": {
+      "n1": "Professionnels",
+      "n2": "Particuliers",
+      "n3": "Nous",
+      "n4": "Nos produits"
+    },
+    "Banner": {
+      "title": "Votre borne de recharge avec MK Green Energy",
+      "btn1": "Obtenir votre devis",
+      "btn2": "Je passe à l'électrique"
+    },
+    "About": {
+      "h1": "L'organisation de votre projet en 4 étapes",
+      "btn": "Nous contacter",
+      "bh1": "ÉTUDE",
+      "bh2": "DEVIS",
+      "bh3": "CONSEIL",
+      "bh4": "INSTALLATION",
+      "p1": "Nos experts recueillent et étudient vos besoins afin de vous proposer une solution adaptée ",
+      "p2": "Après étude de votre dossier nos experts vous proposent une solution chiffrée",
+      "p3": "Nos agents vous offrent un conseil personnalisé sur vos subventions",
+      "p4": "Aprés validation de I'offre, nos équipes procédent a I'installation"
+    },
+    "Quality": {
+      "h1": "Qualifications & Label",
+      "p1": "MK Green Energy est certifiée et spécialisée aux installations de bornes de recharge pour véhicules électriques (IRVE).",
+      "p2": "La certification AFNOR (IRVE) et le label ADVENIR vous permettent, à vous clients, de bénéficier d'une expertise métier, d'une installation réalisée par des professionnels qualifiés et d'un conseil personnalisé sur vos subventions."
+    },
+    "Aides": {
+      "h1": "Aides et subventions pour",
+      "h2": "I'installation de votre borne de recharge.",
+      "p1": "Le Gouvernement a mis en place plusieurs aides et subventions afin de permettre aux professionnels et particuliers de passer a I'électrique pour une mobilité durable !",
+      "p2": "Que vous soyez particulier ou professionnel, nos équipes vous accompagnent dans toutes vos démarches d'aides allouées a votre installation de borne de recharge électrique.",
+      "btn": "Consulter Les aides"
+    },
+    "Footer": {
+      "p1": "90038314200016",
+      "p2": "AFNOR (organisation internationale)",
+      "p3": " Advenir (comité français )",
+      "p4": "+33(0)9 88 31 29 23",
+      "p5": "197 avenue gambetta Bagnolet , 93170",
+      "p6": "Contact@mkgreenenergy.com",
+      "p7": " ©MK Green Energy 2023 All rights reserved.",
+
+      "btn1": "Contactez-nous",
+      "btn2": "Submit"
+    },
+    "FooterOne": {
+      "h1": "Vous avez un projet?",
+      "h2": "Prenez contact avec nos équipes pour en discuter",
+
+      "btn": "Nous contacter"
+    }
+  },
+  "Professionals": {
+    "Banner": {
+      "title": "MK Green Energy installe votre entreprise",
+      "btn1": "Obtenir votre devis",
+      "btn2": "Je passe à l'électrique"
+    },
+    "Car": {
+      "h1": "Un incontournable pour la flotte de votre société",
+      "p1": "MK Green Energy vous propose la solution la plus adaptée à vos besoins.",
+      "p2": "De l'étude de votre projet à l'installation, nos équipes restent à votre écoute pour un résultat   sur-mesure à la hauteur de vos attentes et exigences.",
+      "p3": "Offrez à vos locaux, salariés et/ou visiteurs un confort et une mobilité durable pour faire la différence.",
+      "btn1": "Nous contacter pour en discuter ?"
+    },
+    "Parteners": {
+      "h1": " Les aides financiéres allouées aux installations de bornes de recharge",
+      "l1": "PROGRAMME",
+      "l2": "LES CRÉDIT D'IMPOT",
+      "l3": "LA REDUCTION DU TAUX DE TVA",
+      "l4": "LES AIDES DES COLLECTIVITES"
+    },
+    "Quality": {
+      "h1": "Qualifications & Label",
+      "p1": "MK Green Energy est certifiée et spécialisée aux installations de bornes de recharge pour véhicules électriques (IRVE).",
+      "p2": "La certification AFNOR (IRVE) et le label ADVENIR vous permettent, à vous clients, de bénéficier d'une expertise métier, d'une installation réalisée par des professionnels qualifiés et d'un conseil personnalisé sur vos subventions."
+    },
+    "Aides": {
+      "h1": "Aides et subventions pour",
+      "h2": "I'installation de votre borne de recharge.",
+      "p1": "Le Gouvernement a mis en place plusieurs aides et subventions afin de permettre aux professionnels et particuliers de passer a I'électrique pour une mobilité durable !",
+      "p2": "Que vous soyez particulier ou professionnel, nos équipes vous accompagnent dans toutes vos démarches d'aides allouées a votre installation de borne de recharge électrique.",
+      "btn": "Consulter Les aides"
+    },
+    "FooterOne": {
+      "h1": "Vous avez un projet?",
+      "h2": "Prenez contact avec nos équipes pour en discuter",
+
+      "btn": "    Nous contacter"
+    }
+  },
+  "Particuliers": {
+    "Banner": {
+      "title": "MK Green Energy vous installe",
+      "btn1": "Obtenir votre devis",
+      "btn2": "Je passe à l'électrique"
+    },
+    "borne": {
+      "h1": "En copropriété ou en maison, installez votre borne!",
+      "p1": "Et oui, contrairement aux idées reçues la borne de recharge n'est pas destinée qu'aux entreprises ou aux maisons individuelles, même en copropriété bénéficiez d'une solution adaptée à vos besoins."
+    },
+    "Quality": {
+      "h1": "Qualifications & Label",
+      "p1": "MK Green Energy est certifiée et spécialisée aux installations de bornes de recharge pour véhicules électriques (IRVE).",
+      "p2": "La certification AFNOR (IRVE) et le label ADVENIR vous permettent, à vous clients, de bénéficier d'une expertise métier, d'une installation réalisée par des professionnels qualifiés et d'un conseil personnalisé sur vos subventions."
+    },
+    "Aides": {
+      "h1": "Aides et subventions pour",
+      "h2": "I'installation de votre borne de recharge.",
+      "p1": "Le Gouvernement a mis en place plusieurs aides et subventions afin de permettre aux professionnels et particuliers de passer a I'électrique pour une mobilité durable !",
+      "p2": "Que vous soyez particulier ou professionnel, nos équipes vous accompagnent dans toutes vos démarches d'aides allouées a votre installation de borne de recharge électrique.",
+      "btn": "Consulter Les aides"
+    },
+    "FooterOne": {
+      "h1": "Vous avez un projet?",
+      "h2": "Prenez contact avec nos équipes pour en discuter",
+
+      "btn": "    Nous contacter"
+    }
+  },
+  "nous": {
+    "Banner": {
+      "title": "MK Green Energy: Installateur de borne de recharge",
+      "btn1": "Obtenir votre devis",
+      "btn2": "Je passe à l'électrique"
+    },
+
+    "histry": {
+      "h1": "Notre histoire...",
+      "p1": "  Depuis quelques années MK Green Energy s'est promis de permettre à chacun l'accès à une mobilité durable et électrique. En partenariat avec des acteurs de qualités et engagés notre entreprise est fière de vous accompagner dans votre transition électrique. ",
+      "p2": "   De nombreux clients nous ont fait confiance.",
+      "p3": "     Et vous ? Passer à l'électrique ça vous dit? Le monde demain est entre vos mains!"
+    },
+    "FooterOne": {
+      "h1": "Vous avez un projet?",
+      "h2": "Prenez contact avec nos équipes pour en discuter",
+
+      "btn": "    Nous contacter"
+    }
+  },
+  "WholeSalePage": {
+    "heading": {
+      "title": "Nos produits"
+    },
+    "WholeSale": {
+      "h1": "Panneaux solaires :",
+      "h2": "Bornes de recharge pour véhicules électriques :",
+      "h3": "Produits électriques et accessoires",
+      "d1": "Un panneau solaire, également appelé module photovoltaïque (PV), est un assemblage de cellules solaires photovoltaïques montées dans un cadre rectangulaire. Les panneaux solaires captent la lumière du soleil en tant que source d'énergie rayonnante, qui est convertie en énergie électrique sous forme de courant continu (CC). Une collection soigneusement organisée de panneaux solaires est appelée système photovoltaïque ou tableau solaire. Les tableaux d'un système photovoltaïque peuvent être utilisés pour générer de l'électricité solaire qui alimente directement des équipements électriques ou qui renvoie de l'énergie dans un réseau électrique alternatif (CA) via un système d'onduleur. En 1839, le physicien français Edmond Becquerel a observé pour la première fois la capacité de certains matériaux à créer une charge électrique sous l'exposition à la lumière. Bien que ces premiers panneaux solaires étaient trop inefficaces même pour de simples appareils électriques, ils ont été utilisés comme instrument de mesure de la lumière.",
+      "d2": "Une borne de recharge, également appelée point de charge ou équipement de recharge pour véhicules électriques (EVSE), est un appareil qui fournit de l'énergie électrique pour la recharge des véhicules électriques (y compris les voitures électriques, les camions électriques, les bus électriques, les véhicules électriques de quartier et les hybrides rechargeables). Il existe deux principaux types de bornes : les bornes de recharge en courant alternatif (CA) et les bornes de recharge en courant continu (CC). Les batteries ne peuvent être rechargées qu'avec du courant continu (CC), tandis que la plupart de l'électricité est fournie par le réseau électrique sous forme de courant alternatif (CA). Pour cette raison, la plupart des véhicules électriques sont équipés d'un convertisseur de courant alternatif en courant continu intégré, communément appelé « chargeur embarqué ». Dans une borne de recharge en courant alternatif, l'énergie CA provenant du réseau est fournie à ce chargeur embarqué, qui produit de l'énergie CC pour recharger la batterie. Les bornes de recharge en courant continu facilitent une recharge à puissance plus élevée en intégrant le convertisseur dans la borne de recharge plutôt que dans le véhicule, évitant ainsi les contraintes de taille et de poids. La borne fournit ensuite de l'énergie CC directement au véhicule, contournant le convertisseur embarqué. La plupart des modèles de voitures entièrement électriques peuvent accepter à la fois de l'énergie CA et de l'énergie CC. Les bornes de recharge fournissent des connecteurs conformes à différentes normes internationales.",
+      "d3": "Les éléments utilisés dans le câblage électrique domestique et industriel sont appelés accessoires électriques : interrupteur, douille, prise, fiche, rosace de plafond, fusible, etc. Un interrupteur est utilisé pour ouvrir et fermer un circuit électrique. Une douille est utilisée avec une lampe, une rosace de plafond est utilisée avec un ventilateur de plafond, un tube lumineux ou une suspension lumineuse.",
+      "list": {
+        "l1": "Conduits et coudes",
+        "l2": "2. Conduits en courant alternatif",
+        "l3": "3. Boîtes d'interrupteurs",
+        "l4": "4. Boîtes de lumière",
+        "l5": "5. Boîtes de ventilateur",
+        "l6": "6. Boîtes de jonction",
+        "l7": "7. Fils électriques",
+        "l8": "8. Interrupteurs et plaques",
+        "l9": "9. Disjoncteurs"
+      }
+    }
+  },
+  "Form": {
+    "heading": {
+      "title": "VOS INFORMATIONS"
+    },
+
+    "inputs": {
+      "i1": "Prénom",
+      "i2": "Nom de famille",
+      "i3": "email",
+      "i4": "  Téléphone",
+      "i5": "    Message",
+      "p1": "    Les données personnelles recueillies sur ce formulaire sont utilisées sous la responsabilité de MK GREEN ENERGY afin de vous recontacter a votre demande et finaliser votre commande. Elles seront ensuite utilisées, si votre commande est finalisée, pour gérer notre relation commerciale avec MK GREEN ENERGY et ses partenaires. Tous les champs sont obligatoires.",
+      "p2": "Pour plus dinformations sur vos droits sur vos données et sur les traitements de données personnelles, veuillez consulter le site suivant : https://www.cnil fr.",
+
+      "label": " J'accepte les conditions",
+      "btn": "ENVOYé"
+    }
+  }
+}

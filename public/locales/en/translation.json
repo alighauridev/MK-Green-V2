@@ -1,0 +1,183 @@
+{
+  "HomePage": {
+    "navigation": {
+      "n1": "Professionals",
+      "n2": "Individuals",
+      "n3": "About Us",
+      "n4": "Our Products"
+    },
+    "Banner": {
+      "title": "Get Your Charging Station with MK Green Energy",
+      "btn1": "Get Your Quote",
+      "btn2": "I'm Going Electric"
+    },
+    "About": {
+      "h1": "Organizing Your Project in 4 Steps",
+      "btn": "Contact Us",
+      "bh1": "Study",
+      "bh2": "Quote",
+      "bh3": "Advice",
+      "bh4": "Installation",
+      "p1": "Our experts gather and analyze your needs to propose a tailored solution",
+      "p2": "After studying your case, our experts provide a cost estimate",
+      "p3": "Our agents offer personalized advice on subsidies available to you",
+      "p4": "Upon acceptance of the offer, our teams proceed with the installation"
+    },
+    "Quality": {
+      "h1": "Qualifications & Label",
+      "p1": "MK Green Energy is certified and specialized in the installation of electric vehicle charging stations (EVSE).",
+      "p2": "The AFNOR certification (EVSE) and the ADVENIR label allow you, as clients, to benefit from professional expertise, installation by qualified professionals, and personalized advice on subsidies."
+    },
+    "Aides": {
+      "h1": "Aids and Subsidies for",
+      "h2": "Installation of Your Charging Station",
+      "p1": "The Government has implemented various aids and subsidies to encourage professionals and individuals to switch to electric vehicles for sustainable mobility!",
+      "p2": "Whether you are an individual or a professional, our teams assist you in all the necessary steps for obtaining subsidies for your electric charging station installation.",
+      "btn": "Consult the Aids"
+    },
+    "Footer": {
+      "p1": "90038314200016",
+      "p2": "AFNOR (International Organization)",
+      "p3": "Advenir (French Committee)",
+      "p4": "+33(0)9 88 31 29 23",
+      "p5": "197 avenue Gambetta, Bagnolet, 93170",
+      "p6": "contact@mkgreenenergy.com",
+      "p7": "© MK Green Energy 2023 All rights reserved.",
+      "btn1": "Contact Us",
+      "btn2": "Submit"
+    },
+    "FooterOne": {
+      "h1": "Do You Have a Project?",
+      "h2": "Contact Our Teams to Discuss It",
+      "btn": "Contact Us"
+    }
+  },
+
+  "Professionals": {
+    "Banner": {
+      "title": "MK Green Energy installs your business",
+      "btn1": "Get your quote",
+      "btn2": "I'm going electric"
+    },
+    "Car": {
+      "h1": "A must-have for your company's fleet",
+      "p1": "MK Green Energy offers you the solution that best suits your needs.",
+      "p2": "From the study of your project to the installation, our teams remain at your disposal for a tailor-made result that meets your expectations and requirements.",
+      "p3": "Offer your premises, employees and/or visitors comfort and sustainable mobility to make a difference.",
+      "btn1": "Contact us to discuss?"
+    },
+    "Partners": {
+      "h1": "Financial aid allocated to the installation of charging stations",
+      "l1": "PROGRAM",
+      "l2": "THE TAX CREDIT",
+      "l3": "THE REDUCTION OF THE VAT RATE",
+      "l4": "LOCAL AUTHORITY ASSISTANCE"
+    },
+    "Quality": {
+      "h1": "Qualifications & Label",
+      "p1": "MK Green Energy is certified and specialized in the installation of charging stations for electric vehicles (EVSE).",
+      "p2": "The AFNOR (EVSE) certification and the ADVENIR label allow you, our clients, to benefit from industry expertise, an installation carried out by qualified professionals and personalized advice on your subsidies."
+    },
+    "Aides": {
+      "h1": "Assistance and subsidies for",
+      "h2": "the installation of your charging station.",
+      "p1": "The Government has set up several forms of assistance and subsidies to allow professionals and individuals to switch to electric for sustainable mobility!",
+      "p2": "Whether you are an individual or a professional, our teams support you in all your steps to receive assistance allocated to your installation of an electric charging station.",
+      "btn": "Check the assistance"
+    },
+    "FooterOne": {
+      "h1": "Do you have a project?",
+      "h2": "Get in touch with our teams to discuss it",
+      "btn": "Contact us"
+    }
+  },
+
+  "Particuliers": {
+    "Banner": {
+      "title": "MK Green Energy installs for you",
+      "btn1": "Get your quote",
+      "btn2": "I'm going electric"
+    },
+    "borne": {
+      "h1": "In a condominium or in a house, install your charging station!",
+      "p1": "Yes, contrary to popular belief, the charging station is not only intended for companies or individual houses, even in a condominium, benefit from a solution adapted to your needs."
+    },
+    "Quality": {
+      "h1": "Qualifications & Label",
+      "p1": "MK Green Energy is certified and specialized in the installation of charging stations for electric vehicles (EVSE).",
+      "p2": "The AFNOR (EVSE) certification and the ADVENIR label allow you, our clients, to benefit from industry expertise, an installation carried out by qualified professionals and personalized advice on your subsidies."
+    },
+    "Aides": {
+      "h1": "Assistance and subsidies for",
+      "h2": "the installation of your charging station.",
+      "p1": "The Government has set up several forms of assistance and subsidies to allow professionals and individuals to switch to electric for sustainable mobility!",
+      "p2": "Whether you are an individual or a professional, our teams support you in all your steps to receive assistance allocated to your installation of an electric charging station.",
+      "btn": "Check the assistance"
+    },
+    "FooterOne": {
+      "h1": "Do you have a project?",
+      "h2": "Get in touch with our teams to discuss it",
+      "btn": "Contact us"
+    }
+  },
+
+  "nous": {
+    "Banner": {
+      "title": "MK Green Energy: Charging Station Installer",
+      "btn1": "Get your quote",
+      "btn2": "I'm going electric"
+    },
+    "histry": {
+      "h1": "Our History...",
+      "p1": "For several years, MK Green Energy has committed to providing everyone with access to sustainable and electric mobility. In partnership with high-quality and dedicated stakeholders, our company is proud to accompany you in your electric transition.",
+      "p2": "Many clients have placed their trust in us.",
+      "p3": "And what about you? Are you ready to switch to electric? The future is in your hands!"
+    },
+    "FooterOne": {
+      "h1": "Do you have a project?",
+      "h2": "Get in touch with our teams to discuss it",
+      "btn": "Contact us"
+    }
+  },
+  "WholeSalePage": {
+    "heading": {
+      "title": "Our products"
+    },
+
+    "WholeSale": {
+      "h1": "solar panels:",
+      "h2": "Ev chargers:",
+      "h3": "Electrical products and accessories",
+      "d1": " A solar cell panel, solar electric panel, or solar panel, also known as a photo-voltaic (PV) module or PV panel, is an assembly of photovoltaic solar cells mounted in a (usually rectangular) frame. Solar panels capture sunlight as a source of radiant energy, which is converted into electric energy in the form of direct current (DC) electricity. A neatly organised collection of solar panels is called a photovoltaic system or solar array. Arrays of a photovoltaic system can be used to generate solar electricity that supplies electrical equipment directly, or feeds power back into an alternate current (AC) grid via an inverter system.In 1839, the ability of some materials to create an electrical charge from light exposure was first observed by the French physicist Edmond Becquerel.[1] Though these initial solar panels were too inefficient for even simple electric devices, they were used as an instrument to measure light.[2] ",
+      "d2": "   A charging station, also known as a charge point or electric vehicle supply equipment (EVSE), is a piece of equipment that supplies electrical power for charging plug-in electric vehicles (including electric cars, electric trucks, electric buses, neighborhood electric vehicles, and plug-in hybrids). * There are two main types: AC charging stations and DC charging stations. Batteries can only be charged with direct current (DC) electric power, while most electricity is delivered from the power grid as alternating current (AC). For this reason, most electric vehicles have a built-in AC-to-DC converter, commonly known as the 'onboard charger'. At an AC charging station, AC power from the grid is supplied to this onboard charger, which produces DC power to charge the battery. DC chargers facilitate higher power charging (which requires much larger AC-to-DC converters) by building the converter into the charging station instead of the vehicle to avoid size and weight restrictions. The station then supplies DC power to the vehicle directly, bypassing the onboard converter. Most fully electric car models can accept both AC and DC power.Charging stations provide connectors that conform to a variety of international standards.",
+      "d3": "    The items used in domestic and industrial electrical wiring are called electrical accessories :switch, holder, socket, plug-top, ceiling rose, fuse cut-out etc. A switch is used to make a circuit ON and OFF. A holder is used with a lamp, a ceiling rose is used with a ceiling fan, tube light or a pendant lamp.",
+      "list": {
+        "l1": "  Conduits & bends",
+        "l2": " 2. AC Conduits",
+        "l3": " 3. Switch boxes",
+        "l4": "4. Light boxes ",
+        "l5": " 5. Fan boxes",
+        "l6": "   6. Junction boxes",
+        "l7": "   7. Wires",
+        "l8": "   8. Switches & Plates",
+        "l9": "    9. MCBs"
+      }
+    }
+  },
+  "Form": {
+    "heading": {
+      "title": "YOUR INFORMATION"
+    },
+    "inputs": {
+      "i1": "First Name",
+      "i2": "Last Name",
+      "i3": "Email",
+      "i4": "Phone",
+      "i5": "Message",
+      "p1": "The personal data collected on this form is used under the responsibility of MK GREEN ENERGY to contact you upon your request and finalize your order. If your order is completed, the data will be used to manage our business relationship with MK GREEN ENERGY and its partners. All fields are required.",
+      "p2": "For more information about your rights regarding your data and personal data processing, please visit the following website: https://www.cnil.fr/en",
+      "label": "I accept the terms and conditions",
+      "btn": "SEND"
+    }
+  }
+}
