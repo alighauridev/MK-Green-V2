@@ -55,6 +55,39 @@ footer {
         justify-content: flex-start;
         flex-direction: column;
 
+        .icons {
+          display: flex;
+          justify-content: center;
+          list-style: none;
+          width: 100%;
+
+          @include md {}
+
+          >a {
+            transition: 0.2s all;
+            line-height: 1.5em;
+            position: relative;
+            z-index: auto;
+            margin: 0 20px;
+
+            background-position: center 0;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 15px;
+            border-radius: 4px;
+            padding: 6px 0px;
+            font-weight: 400;
+            text-transform: capitalize;
+
+            svg {
+              font-size: 16px;
+              fill: #fff;
+            }
+          }
+        }
+
         .logo {
           height: 90px;
           display: flex;
@@ -177,13 +210,16 @@ footer {
 
     .bottom__footer {
       padding: 13px 0 14px;
-      display: grid;
-      grid-template-columns: 1.5fr 0fr 1.5fr;
+      display: flex;
+      justify-content: space-between;
       align-items: center;
       border-top: 1px solid #ffffff20;
 
       @include md {
-        grid-template-columns: 1fr;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+        row-gap: 20px;
       }
 
       p {
@@ -192,39 +228,6 @@ footer {
         text-align: start;
       }
 
-      .icons {
-        display: flex;
-        justify-content: center;
-        list-style: none;
-
-        @include md {
-          flex-wrap: wrap;
-        }
-
-        >a {
-          transition: 0.2s all;
-          line-height: 1.5em;
-          position: relative;
-          z-index: auto;
-          margin: 0 20px;
-
-          background-position: center 0;
-          cursor: pointer;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          font-size: 15px;
-          border-radius: 4px;
-          padding: 6px 0px;
-          font-weight: 400;
-          text-transform: capitalize;
-
-          svg {
-            font-size: 16px;
-            fill: #fff;
-          }
-        }
-      }
 
       .end {
         display: flex;
