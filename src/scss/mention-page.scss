@@ -1,0 +1,261 @@
+@import "./variable.scss";
+@import "./media.scss";
+
+
+#mentions-page {
+    .container-wrapper {
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 150px 20px 90px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            row-gap: 60px;
+
+            .heading {
+                width: 100%;
+                text-align: center;
+                row-gap: 40px;
+                display: flex;
+                flex-direction: column;
+
+                h1 {
+                    color: #006281;
+                    font-size: clamp(100%, 10vw, 4rem);
+                    text-align: center;
+                    font-weight: 600;
+                    font-family: 'Raleway';
+                }
+
+                .para {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: start;
+                    justify-content: center;
+                    row-gap: 20px;
+
+                    p {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 18px;
+                        letter-spacing: 0.2px;
+                        line-height: 1.5em;
+                        font-weight: 200;
+                    }
+                }
+            }
+
+            .content {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                row-gap: 40px;
+
+                .title {
+                    line-height: 50px;
+                    width: 100%;
+
+                    h2 {
+                        color: #006281;
+                        font-size: clamp(100%, 10vw, 2rem);
+                        text-align: start;
+                        font-weight: 600;
+                        font-family: 'Raleway';
+                    }
+
+                    span {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 18px;
+                        letter-spacing: 0.2px;
+                        line-height: 1.5em;
+                        font-weight: 200;
+                    }
+
+                    p {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 18px;
+                        letter-spacing: 0.2px;
+                        line-height: 1.5em;
+                        font-weight: 200;
+                    }
+
+                }
+
+                ul {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: start;
+                    justify-content: center;
+                    row-gap: 10px;
+                    width: 100%;
+
+                    li {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 20px;
+                        letter-spacing: 0.2px;
+                        list-style: none;
+                        line-height: 1.5em;
+                        font-weight: 800;
+                        display: flex;
+                        align-items: center;
+                        justify-content: start;
+                        gap: 5px;
+                        width: 100%;
+                        word-break: break-all;
+
+                        @include md {
+                            flex-direction: column;
+                        }
+
+                        p {
+                            color: #006281;
+                            text-align: start;
+                            font-size: 19px;
+                            letter-spacing: 0.2px;
+                            line-height: 1.5em;
+                            font-weight: 200;
+                        }
+                    }
+                }
+            }
+
+            .bottom {
+                .heading-b {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: start;
+                    justify-content: center;
+                    row-gap: 15px;
+
+                    h1 {
+                        color: #006281;
+                        font-size: clamp(100%, 10vw, 2rem);
+                        text-align: start;
+                        font-weight: 600;
+                        font-family: 'Raleway';
+                    }
+
+                    h2 {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 20px;
+                        letter-spacing: 0.2px;
+                        list-style: none;
+                        line-height: 1.5em;
+                        font-weight: 800;
+                        display: flex;
+                        align-items: center;
+                        justify-content: start;
+                        gap: 5px;
+                        width: 100%;
+                        margin-top: 20px;
+                        word-break: break-all;
+
+                        @include md {
+                            flex-direction: column;
+                        }
+
+                        p {
+                            color: #006281;
+                            text-align: start;
+                            font-size: 19px;
+                            letter-spacing: 0.2px;
+                            line-height: 1.5em;
+                            font-weight: 200;
+                        }
+                    }
+
+                    span {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 20px;
+                        letter-spacing: 0.2px;
+                        list-style: none;
+                        line-height: 1.5em;
+                        font-weight: 800;
+                        display: flex;
+                        align-items: center;
+                        justify-content: start;
+                        gap: 5px;
+                        width: 100%;
+                        word-break: break-all;
+
+                    }
+
+                    .tel {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 20px;
+                        letter-spacing: 0.2px;
+                        list-style: none;
+                        line-height: 1.5em;
+                        font-weight: 800;
+                        display: flex;
+                        align-items: center;
+                        justify-content: start;
+                        gap: 5px;
+                        width: 100%;
+                        word-break: break-all;
+
+                        @include md {
+                            flex-direction: column;
+                        }
+
+                        p {
+                            color: #006281;
+                            text-align: start;
+                            font-size: 19px;
+                            letter-spacing: 0.2px;
+                            line-height: 1.5em;
+                            font-weight: 200;
+                        }
+                    }
+                }
+
+                .para {
+
+
+                    p {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 19px;
+                        letter-spacing: 0.2px;
+                        line-height: 1.5em;
+                        font-weight: 200;
+
+                        b {
+                            color: #006281;
+                            text-align: start;
+                            font-size: 20px;
+                            letter-spacing: 0.2px;
+                            list-style: none;
+                            line-height: 1.5em;
+                            font-weight: 800;
+                            display: flex;
+                            align-items: center;
+                            justify-content: start;
+                            gap: 5px;
+                            width: 100%;
+                            margin-top: 20px;
+                            word-break: break-all;
+
+                            @include md {
+                                flex-direction: column;
+                            }
+                        }
+
+
+
+
+                    }
+                }
+            }
+        }
+    }
+}

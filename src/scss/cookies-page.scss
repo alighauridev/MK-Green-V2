@@ -1,0 +1,127 @@
+@import "./variable.scss";
+@import "./media.scss";
+
+#mentions-page {
+    .container-wrapper {
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 150px 20px 90px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            row-gap: 60px;
+
+            .heading {
+                width: 100%;
+                text-align: center;
+                row-gap: 40px;
+                display: flex;
+                flex-direction: column;
+
+                h1 {
+                    color: #006281;
+                    font-size: clamp(100%, 10vw, 4rem);
+                    text-align: center;
+                    font-weight: 600;
+                    font-family: 'Raleway';
+                }
+
+                .para {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: start;
+                    justify-content: center;
+                    row-gap: 20px;
+
+                    p {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 18px;
+                        letter-spacing: 0.2px;
+                        line-height: 1.5em;
+                        font-weight: 200;
+                    }
+                }
+            }
+
+            .content {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                row-gap: 40px;
+
+                .box {
+                    ul {
+                        display: flex;
+                        align-items: start;
+                        justify-content: center;
+                        row-gap: 20px;
+
+                     
+                    }
+                    .para{
+                        display: flex;
+                        flex-direction: column;
+                        align-items: start;
+                        justify-content: center;
+                        row-gap: 20px;
+                    }
+                    a {
+                        color: #006281;
+                        font-size: 20px;
+                        font-weight: 500;
+
+                        span {
+                            color: #006281;
+                            text-decoration: underline;
+                            font-weight: 500;
+                            font-size: 20px;
+                        }
+
+                        li {
+                            color: #006281;
+                            font-size: 20px;
+                            font-weight: 500;
+                            text-decoration: underline;
+                        }
+
+                    }
+
+                    p {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: start;
+                        justify-content: center;
+                        width: 100%;
+                        gap: 10px;
+                    }
+
+                    h3 {
+
+                        color: #006281;
+                        font-size: clamp(100%, 10vw, 2rem);
+                        text-align: start;
+                        font-weight: 600;
+                        font-family: 'Raleway';
+                        margin-bottom: 20px;
+                    }
+
+                    p {
+                        color: #006281;
+                        text-align: start;
+                        font-size: 18px;
+                        letter-spacing: 0.2px;
+                        line-height: 1.5em;
+                        font-weight: 200;
+                    }
+                }
+
+
+            }
+
+        }
+    }
+}

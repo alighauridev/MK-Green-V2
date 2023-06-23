@@ -99,7 +99,9 @@ const Footer = () => {
             </a>
           </ul>
           <ul className="end">
-            <Link to={"/contact"}>{t("HomePage.Footer.btn1")}</Link>
+            <Link to={"/mentions-page"}>{t("HomePage.Footer.li1")}</Link>
+            <Link to={"/cookies-page"}>{t("HomePage.Footer.li2")}</Link>
+            <Link to={"/politique-page"}>{t("HomePage.Footer.li3")}</Link>
           </ul>
         </div>
       </div>

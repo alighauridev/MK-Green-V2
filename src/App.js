@@ -17,6 +17,9 @@ import "aos/dist/aos.css";
 import Footer from "./components/Footer";
 import WholeSalePage from "./Pages/WholeSalePage";
 import CookieModal from "./components/CookieModal";
+import MentionsPage from "./Pages/MentionsPage";
+import CookiesPage from "./Pages/CookiesPage";
+import PolitiquePage from "./Pages/PolitiquePage";
 function App() {
   let [loading, setLoading] = useState(true);
   useEffect(() => {
@@ -39,6 +42,9 @@ function App() {
             <Route path="/nous-page" element={<NousPage />} />
             <Route path="/contact" element={<Form />} />
             <Route path="/whole-sale-page" element={<WholeSalePage />} />
+            <Route path="/mentions-page" element={<MentionsPage />} />
+            <Route path="/cookies-page" element={<CookiesPage />} />
+            <Route path="/politique-page" element={<PolitiquePage />} />
           </Routes>
           <Footer />
         </>
