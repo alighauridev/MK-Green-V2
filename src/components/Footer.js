@@ -84,12 +84,7 @@ const Footer = () => {
               <input type="email" placeholder="Email" name="" id="" />
               <button>{t("HomePage.Footer.btn2")}</button>
             </div>
-          </div>
-        </div>
-        <div className="bottom__footer">
-          <p>{t("HomePage.Footer.p7")}</p>
-
-          <ul className="icons">
+            <ul className="icons">
             <a href="https://www.linkedin.com/company/m-k-green-energy/">
               <FaLinkedinIn />{" "}
             </a>
@@ -98,6 +93,12 @@ const Footer = () => {
               <FaTwitter />
             </a>
           </ul>
+          </div>
+        </div>
+        <div className="bottom__footer">
+          <p>{t("HomePage.Footer.p7")}</p>
+
+       
           <ul className="end">
             <Link to={"/mentions-page"}>{t("HomePage.Footer.li1")}</Link>
             <Link to={"/cookies-page"}>{t("HomePage.Footer.li2")}</Link>
