@@ -84,7 +84,7 @@ const Footer = () => {
               <input type="email" placeholder="Email" name="" id="" />
               <button>{t("HomePage.Footer.btn2")}</button>
             </div>
-            <ul className="icons">
+            <ul className="icons" data-aos={"fade-up"}>
             <a href="https://www.linkedin.com/company/m-k-green-energy/">
               <FaLinkedinIn />{" "}
             </a>

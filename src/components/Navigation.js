@@ -14,6 +14,7 @@ const Navigation = ({}) => {
   const [translate, setTranslate] = useState(false);
   const [nave, setNave] = useState(false);
   const [scroll, setScroll] = useState(false);
+  const [border, setBorder] = useState(false);
   const { t } = useTranslation();
   window.addEventListener("scroll", () => {
     if (window.pageYOffset > 300) {
@@ -43,7 +44,7 @@ const Navigation = ({}) => {
                       </Link>
                     </div>
 
-                    <li>
+                    <li window>
                       <Link
                         onClick={() => window.scroll(0, 0)}
                         to={"/professionel-page"}
