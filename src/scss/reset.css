@@ -15,7 +15,15 @@
   --wagmi: #ed003b;
   --checkSize: 2rem;
 }
-
+a {
+  text-decoration: none !important;
+}
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: unset !important;
+}
 @import url("https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Rubik:wght@300&display=swap");
 
 /* font-family: 'Bakbak One',

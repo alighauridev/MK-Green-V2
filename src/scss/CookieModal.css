@@ -27,3 +27,26 @@
   cursor: pointer;
   outline: none;
 }
+.modal-body label {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.modal-content {
+  background: #006281 !important;
+}
+.modal-header {
+  border-bottom: 1px solid #006f915e !important;
+}
+.modal-footer {
+  border-top: 1px solid #006f915e !important;
+}
+.modal-body form {
+  padding: var(--bs-modal-padding);
+  display: grid !important;
+  grid-gap: 10px;
+}
+button.btn-close {
+  filter: invert(1);
+}
