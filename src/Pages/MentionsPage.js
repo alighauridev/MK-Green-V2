@@ -76,7 +76,9 @@ const MentionsPage = () => {
                 <li>
                   {t("Mention.Presentation.list.li9")}
 
-                  <p>{t("Mention.Presentation.list.p9")}</p>
+                  <p><a href="mailto:contact@mkgreenenergy.com">
+                  {t("Mention.Presentation.list.p9")}
+                    </a></p>
                 </li>
                 <li>
                   {t("Mention.Presentation.list.li10")}
