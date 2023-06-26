@@ -247,10 +247,10 @@
       "p37": "Nous espérons que cette politique de cookies vous a fourni des informations claires sur notre utilisation des cookies et sur vos choix en matière de confidentialité. Si vous avez des questions supplémentaires, n'hésitez pas à nous contacter à l'adresse :  ",
 
       "linkh1": "Google Analytics : ",
-      "linkp1": "Consultez ce lien ",
+      "linkp1": "Consulter ce lien ",
 
       "linkh2": "Hotjar ",
-      "linkp2": "consulter ce lien",
+      "linkp2": "Consulter ce lien",
       "p38": "Nous tenons aussi à vous informer que vous pouvez vous opposer à ces différentes opérations en configurant votre navigateur, tel que Google, Internet Explorer ou Firefox, en suivant les instructions, indiquées également ci-dessus, qui sont fournies à cet effet sur le site Internet de votre navigateur ou, à défaut, sur celui de la Commission Nationale de l’Informatique et des Libertés (CNIL).   ",
       "p39": "En cas d’exercice de votre droit d’opposition, notre société, SAS MK GREEN ENERGY, confirme qu’aucune donnée de connexion ne sera transmise à un quelconque fournisseur d’outils d’analyse d’audience. Vous disposez enfin d’un droit d’accès aux données vous concernant que vous pouvez exercer en contactant le fournisseur concerné, en précisant le numéro identifiant du cookie qui vous sera attribué par ces derniers.  ",
       "p310": "Vous pouvez désactiver les cookies en suivant les conseils sur ce lien  ",
@@ -334,8 +334,8 @@
       "s2": "l’adresse",
       "s3": "électronique ",
       "center": "SAS M.K Green Energy, 197 avenue Gambetta - 93170 Bagnolet",
-"sstart":"suivante",
-"send":"ou  par courrier simple à l’adresse : ",
+      "sstart": "suivante",
+      "send": "ou  par courrier simple à l’adresse : ",
       "q7": "VII.Modifications de notre politique de confidentialité ",
       "p7": "Nous pouvons mettre à jour cette politique de confidentialité de temps en temps pour refléter les changements apportés à nos pratiques en matière de protection des données personnelles. Nous vous encourageons à consulter cette page régulièrement pour prendre connaissance des modifications éventuelles"
     }

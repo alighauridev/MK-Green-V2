@@ -4,6 +4,10 @@
 
 #mentions-page {
     .container-wrapper {
+        ul{
+            padding: 0px !important;
+            margin: 0px !important;
+        }
         .container {
             max-width: 1200px;
             margin: auto;

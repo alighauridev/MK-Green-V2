@@ -164,6 +164,168 @@
       }
     }
   },
+
+  "Mention": {
+    "heading": {
+      "title": "Legal Mentions:"
+    },
+    "des": {
+      "p1": "Welcome to the website of K.M Green Energy, your expert partner in electric vehicle charging station installations. We are committed to providing you with comprehensive and professional solutions to meet your electric charging needs. Our qualified team offers you their industry expertise to deliver a high-quality installation carried out according to the rules of the art. The legal mentions below contain all the information regarding the administration of our website and the purpose of its content.",
+      "p2": "The legal mentions below contain all the information regarding the administration of our website and the purpose of its content."
+    },
+    "Presentation": {
+      "title": "Legal Information:",
+      "span": "Site Presentation:",
+      "p": "The site is administered in France by the company M.K Green Energy.",
+      "list": {
+        "li1": "Company Name:",
+        "li2": "Legal Form:",
+        "li3": "Registered Office Address:",
+        "li4": "Share Capital Amount:",
+        "li5": "Registration Number in the RCS:",
+        "li6": "Registration Date:",
+        "li7": "APE Code:",
+        "li8": "Phone Number:",
+        "li9": "Email:",
+        "li10": "Phone Number:",
+        "li11": "VAT Identification Number:",
+        "p1": "M.K Green Energy",
+        "p2": "Simplified Joint Stock Company",
+        "p3": "197 avenue Gambetta - 93170 Bagnolet",
+        "p4": "€1,000",
+        "p5": "of Bobigny under number 900 383 142 00016",
+        "p6": "15/06/2021",
+        "p7": "46.69A",
+        "p8": ": 09 88 31 29 23",
+        "p9": "contact@mkgreenenergy.com",
+        "p10": "FR41900383142",
+        "p11": "Teddy BENOIT"
+      }
+    },
+    "mentionend": {
+      "h1": "Web Hosting:",
+      "h2": "Hosting Company Name:",
+      "h2part": "A2. Hosting, Inc",
+      "s1": "Share Capital:",
+      "s2": "Registered Office:",
+      "tel": "+1 734 222 4678",
+      "ph": "Intellectual Property:",
+      "p": "The content present on the website, including texts, images, videos, graphics, logos, and other elements, is protected by copyright laws. These rights belong to MK Green Energy. Any use, reproduction, modification, or distribution of the content of this site, in whole or in part, is strictly prohibited without the prior written authorization of M.k Green Energy or the relevant rights holder."
+    }
+  },
+
+  "Cookies": {
+    "heading": {
+      "title": "COOKIE POLICY"
+    },
+    "des": {
+      "p1": "Welcome to the website http://www.mkgreenenergy.com, with its registered office at 197 avenue Gambetta - 93170 Bagnolet. We are responsible for processing your personal data as well as the cookies that we may collect on our website. We attach great importance to the protection of your privacy and want to inform you transparently about the use of cookies on our website http://www.mkgreenenergy.com. This cookie policy explains what cookies are, how we use them, and what choices you have regarding cookies."
+    },
+    "points": {
+      "q1": "I. What is a cookie?",
+      "p1": "A cookie is a small text file that is stored on your computer or device when you visit a website. Cookies are widely used to enable websites to function effectively and provide information to the website owners. They can be used for various purposes, such as remembering your preferences, enhancing the user experience, collecting statistical information, or enabling certain technical features.",
+      "q2": "II. How do we use cookies?",
+      "p21": "On our website, we use cookies to improve your browsing experience and provide you with personalized features. Here are the types of cookies we use:",
+      "p22": "Geolocation Advertising Cookies: We use cookies to present advertisements that are tailored to your geographical location. This allows us to offer relevant offers and information for your region.",
+      "p23": "Social Media Sharing Cookies: We integrate social media sharing buttons on our website to allow you to easily share content with your friends and contacts. The cookies associated with these features allow social media platforms to track your sharing activity.",
+      "p24": "Functional Cookies: The functional cookies issued by the site allow us to:",
+      "li1": "Optimize the presentation of our site (language used, display resolution, operating system used, etc.) according to the hardware and software of your device. These cookies expire at the end of your session;",
+      "li2": "Facilitate searches by retaining those already performed by the user. These cookies have a retention period of 13 months.",
+      "p25": "Analytical Cookies: We use analytical cookies to improve the performance of the site by collecting only connection data related to the date, time, internet address, user's terminal protocol, and the page(s) viewed. None of this data is transferred to third parties or reused for other purposes. Similarly, we do not retain the data for a period longer than thirteen months.",
+      "q3": "III. Your choices regarding cookies",
+      "p31": "When you visit our website for the first time, you are informed about the use of cookies and have the option to accept or refuse their use. If you accept the use of cookies, you consent to their collection and use in accordance with this policy.",
+      "p32": "You also have the option to modify your preferences at any time by clicking on the 'manage cookies' icon at the bottom left of each page of our site. By clicking on this icon, you can access a cookie management panel where you can adjust your cookie preferences.",
+      "p33": "Please note that your cookie preferences will be retained for a period of 6 months from your last choice. After this period, you will be prompted to review and update your preferences.",
+      "p34": "Additionally, you have the option to configure your browser to reject all cookies or to alert you when a cookie is sent.",
+      "p35": "We hope that this cookie policy has provided you with clear information about our use of cookies and your privacy choices. If you have any further questions, please contact us at the following address:",
+      "p36": "We hope that this cookie policy has provided you with clear information about our use of cookies and your privacy choices. If you have any further questions, please contact us at the following address:",
+      "p37": "We hope that this cookie policy has provided you with clear information about our use of cookies and your privacy choices. If you have any further questions, please contact us at the following address:",
+      "linkh1": "Google Analytics:",
+      "linkp1": "Refer to this link",
+      "linkh2": "Hotjar",
+      "linkp2": "Refer to this link",
+      "p38": "We also want to inform you that you can oppose these various operations by configuring your browser, such as Google, Internet Explorer, or Firefox, following the instructions provided on their respective websites or, failing that, on the website of the National Commission for Information Technology and Civil Liberties (CNIL).",
+      "p39": "In case of exercising your right to object, our company, SAS MK GREEN ENERGY, confirms that no connection data will be transmitted to any audience analysis tool provider. You also have the right to access data concerning you, which you can exercise by contacting the relevant provider, specifying the identifier number of the cookie assigned to you by them.",
+      "p310": "You can disable cookies by following the advice on this link",
+      "q4": "IV. How can you accept or refuse the use of cookies?",
+      "p4": "You can control cookies by modifying the settings of your web browser. Most web browsers allow you to control cookies through their privacy settings. Since consent must result from a unambiguous action, any other action (e.g., closing the consent banner) other than explicitly accepting should be considered a refusal.",
+      "p41": "You can control cookies by modifying the settings of your web browser. Most web browsers allow you to control cookies through their privacy settings. Since consent must result from a unambiguous action, any other action (e.g., closing the consent banner) other than explicitly accepting should be considered a refusal.",
+      "p42": "Instructions for modifying your browser settings are provided on their websites:",
+      "li": "For Internet Explorer:",
+      "Links": {
+        "l": "Refer to this link",
+        "l1": "For Firefox:",
+        "l2": "For Safari:",
+        "l3": "For Chrome:",
+        "l4": "You can also find the necessary information on the website of the National Commission for Information Technology and Civil Liberties (CNIL):",
+        "l5": "To disable cookies from Facebook:"
+      }
+    },
+    "mentionend": {
+      "h1": "Web Hosting:",
+      "h2": "Hosting Company Name:",
+      "h2part": "A2 Hosting, Inc",
+      "s1": "Share Capital:",
+      "s2": "Registered Office:",
+      "tel": "+1 734 222 4678",
+      "ph": "Intellectual Property:",
+      "p": "The content on the website, including texts, images, videos, graphics, logos, and other elements, is protected by copyright laws. These rights belong to MK Green Energy. Any use, reproduction, modification, or distribution of the content of this site, in whole or in part, is strictly prohibited without the prior written permission of M.k Green Energy or the respective rights holder."
+    }
+  },
+  "PrivacyPolicy": {
+    "heading": {
+      "title": "Privacy Policy and Protection of Personal Data:"
+    },
+    "des": {
+      "p1": "MK Green Energy attaches great importance to the protection of your personal data. This data protection policy explains how we collect, use, and protect the information you provide to us when you visit our website.",
+      "p2": "We respect your privacy and are committed to processing your personal data in accordance with applicable data protection regulations, including the General Data Protection Regulation (GDPR) and the French Data Protection Act of 1978.",
+      "p3": "In accordance with the provisions of the French Law 'Informatique et Libertés' No. 78-17 of January 6, 1978, as amended, and in accordance with the European General Data Protection Regulation (GDPR), we undertake to comply with the fundamental principles and provide you with simplified tools and procedures to exercise your rights regarding the protection of personal data.",
+      "p4": "To ensure optimal protection of the personal data we process, our website is subject to rigorous controls by our hosting provider and IT service providers, who strictly comply with the principles set out in the applicable legislation.",
+      "p5": "We make every effort to ensure the confidentiality and security of your personal data, including limiting access to this data to authorized personnel only and implementing adequate technical and organizational measures to prevent unauthorized access, disclosure, alteration, or destruction of this data."
+    },
+    "points": {
+      "q1": "I. Collection and Use of Personal Data",
+      "p1": "When you visit our website, we may collect certain personal information about you, such as your name, email address, phone number, etc. Your personal data, including your identity and contact details, is collected for the purposes of the relationship between you as a user of our site and to:",
+      "pl1": "Provide you with information about our services",
+      "pl2": "Respond to your inquiries",
+      "pl3": "Facilitate assistance provided by Customer Service, including contacting us via our online form",
+      "pl4": "Offer you a personalized study",
+      "pl5": "Conduct statistical analysis",
+      "pl6": "Improve your browsing experience through the use of cookies",
+      "q2": "II. Protection of Your Personal Data",
+      "p21": "To protect your information and personal data, we employ various physical and electronic measures. We use appropriate technical and organizational measures to protect your personal data against unauthorized access, loss, disclosure, or alteration. We use security protocols and encryption measures to protect your sensitive information and ensure its confidentiality.",
+      "p22": "We also prioritize the security, quality, and integrity of your personal data. We employ a variety of physical, electronic, and managerial protections to safeguard your information. Our team regularly updates our computer security tools and also controls physical access to databases for authorized personnel.",
+      "p23": "We also prioritize the security, quality, and integrity of your personal data. We use a variety of physical, electronic, and managerial protections to safeguard your information. Our team regularly updates our security tools.",
+      "p24": "All our registrations comply with the active opt-in regulation and require your explicit consent.",
+      "q3": "III. Sharing and Disclosure of Your Personal Data",
+      "p31": "We are committed to taking all appropriate safeguards to ensure the protection of your data.",
+      "p32": "Your data will not be transferred or made accessible to any third parties. Only the following stakeholders may potentially have access to your data:",
+      "p3l1": "MK Green Energy subcontractors for business and technical purposes in the context of technical file management",
+      "p3l2": "Hosting and maintenance service providers of the website",
+      "p33": "And in the event of any corporate restructuring, including total or partial asset transfer, merger, acquisition, spin-off, and more generally any reorganization operation.",
+      "p34": "We do not sell, rent, or share your personal data with third parties for marketing purposes without your explicit consent. However, it may be necessary to share your information with third-party service providers who assist us in providing our services and managing our website. We ensure that these third parties respect the confidentiality and security of your data and use it only in accordance with our instructions.",
+      "q4": "IV. Data of Minors",
+      "p4": "Please note that the website is not intended for individuals under the age of 18, and MK Green Energy does not intentionally collect personal data from them. If personal data concerning minors is recorded, we will make every effort to delete it as soon as we become aware of it.",
+      "q5": "V. Retention Period of Your Personal Data",
+      "p51": "In order to respond to your inquiries on our website, MK Green Energy may process information regarding your identity and the contact details you provide. To continuously improve the quality of our services and your experience on our site, we may also use this information for statistical studies, but only on aggregated data to limit the risk of reidentification by third parties, especially for commercial purposes with our partners.",
+      "p52": "Data related to your inquiries via our contact terminals will be retained for a period not exceeding the applicable legal prescription periods and strictly necessary for the processing of your request. Once correspondence with our services is completed, this data will be archived for evidentiary purposes and kept in intermediate archives for the aforementioned periods.",
+      "p5l1": "Thus, in the context of our commercial solicitation, your data will be retained for 24 months after our last interaction with you.",
+      "p5l2": "The resumes you provide to us via this website or directly to our HR department will be retained for a period of 12 months after your last contact with us.",
+      "p5l3": "In the context of concluding a contract, your data will be retained for a period of 5 to 10 years after the completion of our services, in accordance with tax and accounting obligations.",
+      "q6": "VI. Exercising Your Rights Regarding Data Protection",
+      "p61": "In accordance with the applicable regulations, you have the right to access, modify, restrict, port, and delete your personal data, as well as the right to object to the processing of this data. You can also define directives regarding the fate of your personal data after your death. You also have the right to file a complaint with a supervisory authority.",
+      "p62": "These rights can be exercised directly through our contact form on the ",
+      "p6h": "website",
+      "s1": "via",
+      "s2": "the email address",
+      "s3": "or by regular mail to the following address: SAS M.K Green Energy, 197 avenue Gambetta - 93170 Bagnolet",
+      "sstart": "or by regular mail to the following address:",
+      "send": "",
+      "q7": "VII. Changes to Our Privacy Policy",
+      "p7": "We may update this privacy policy from time to time to reflect changes in our personal data protection practices. We encourage you to regularly review this page for any possible modifications."
+    }
+  },
+
   "Form": {
     "heading": {
       "title": "YOUR INFORMATION"
