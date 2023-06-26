@@ -98,11 +98,16 @@ const Footer = () => {
         <div className="bottom__footer">
           <p>{t("HomePage.Footer.p7")}</p>
 
-
           <ul className="end">
-            <Link onClick={() => window.scroll(0, 0)} to={"/mentions-page"}>{t("HomePage.Footer.li1")}</Link>
-            <Link onClick={() => window.scroll(0, 0)} to={"/cookies-page"}>{t("HomePage.Footer.li2")}</Link>
-            <Link onClick={() => window.scroll(0, 0)} to={"/politique-page"}>{t("HomePage.Footer.li3")}</Link>
+            <Link onClick={() => window.scroll(0, 0)} to={"/mentions-page"}>
+              {t("HomePage.Footer.li1")}
+            </Link>
+            <Link onClick={() => window.scroll(0, 0)} to={"/politique-page"}>
+              {t("HomePage.Footer.li2")}
+            </Link>
+            <Link onClick={() => window.scroll(0, 0)} to={"/cookies-page"}>
+              {t("HomePage.Footer.li3")}
+            </Link>
           </ul>
         </div>
       </div>
