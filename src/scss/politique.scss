@@ -125,9 +125,9 @@
                         .space {
                             display: flex;
                             align-items: center;
-                            justify-content: space-evenly;
+                            /* justify-content: space-evenly; */
                             width: 600px;
-
+                            gap: 6px;
                             @include md {
                                 width: 100%;
                             }
