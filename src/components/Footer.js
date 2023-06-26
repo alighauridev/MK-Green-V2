@@ -85,24 +85,24 @@ const Footer = () => {
               <button>{t("HomePage.Footer.btn2")}</button>
             </div>
             <ul className="icons" data-aos={"fade-up"}>
-            <a href="https://www.linkedin.com/company/m-k-green-energy/">
-              <FaLinkedinIn />{" "}
-            </a>
+              <a href="https://www.linkedin.com/company/m-k-green-energy/">
+                <FaLinkedinIn />{" "}
+              </a>
 
-            <a href="https://twitter.com/@mkgreenenergy">
-              <FaTwitter />
-            </a>
-          </ul>
+              <a href="https://twitter.com/@mkgreenenergy">
+                <FaTwitter />
+              </a>
+            </ul>
           </div>
         </div>
         <div className="bottom__footer">
           <p>{t("HomePage.Footer.p7")}</p>
 
-       
+
           <ul className="end">
-            <Link to={"/mentions-page"}>{t("HomePage.Footer.li1")}</Link>
-            <Link to={"/cookies-page"}>{t("HomePage.Footer.li2")}</Link>
-            <Link to={"/politique-page"}>{t("HomePage.Footer.li3")}</Link>
+            <Link onClick={() => window.scroll(0, 0)} to={"/mentions-page"}>{t("HomePage.Footer.li1")}</Link>
+            <Link onClick={() => window.scroll(0, 0)} to={"/cookies-page"}>{t("HomePage.Footer.li2")}</Link>
+            <Link onClick={() => window.scroll(0, 0)} to={"/politique-page"}>{t("HomePage.Footer.li3")}</Link>
           </ul>
         </div>
       </div>
