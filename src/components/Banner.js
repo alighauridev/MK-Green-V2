@@ -42,6 +42,7 @@ const Banner = ({ bg, text, isCenter, bc }) => {
                 <div className="btn">
                   <a href="https://www.je-roule-en-electrique.fr" target="blank_">{t('HomePage.Banner.btn2')}</a>
                 </div>
+              
               </div>
             </div>
           </div>

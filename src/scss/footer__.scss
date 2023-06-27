@@ -226,6 +226,11 @@ footer {
         font-size: 16px;
         color: #fff;
         text-align: start;
+        margin: 0px;
+        padding: 0px;
+        @include md {
+          text-align: center;
+        }
       }
 
 
@@ -235,7 +240,8 @@ footer {
         justify-content: end;
         color: #fff;
         gap: 15px;
-
+padding: 0px;
+margin: 0px;
         @include md {
           justify-content: center;
         }
@@ -243,6 +249,10 @@ footer {
         a {
           font-size: 16px;
           color: #fff;
+          text-align: center;
+          @include md{
+          font-size: 14px;
+          }
         }
       }
     }
